@@ -3,4 +3,5 @@ The project was created to build and simulate a MySQL DB with basic necessary fe
 Additionally, it supports concurrent transactions using time based table locking mechanism. It can handle concurrent users at a time and accepts the queries in SQL format. It follows ACID properties like any other database and generates both generic and event based logs as per the transactions.
 
 Tools and Technologies: Java | SQL
+
 Skills: Database Design | Conceptual Framework
